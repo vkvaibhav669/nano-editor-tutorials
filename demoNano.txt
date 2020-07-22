@@ -1,0 +1,34 @@
+hello this is just a  nano tutorial 
+
+
+to save and exit use (ctrl + x)
+
+
+
+undo using (alt +U)
+
+
+get help for using nano via (ctrl + G)
+
+move forward one character: Ctrl+F (^F)
+
+move back one character: Ctrl+B (^B)
+
+move forward one word: Ctrl+Space (^Space)
+
+move back one word: Alt+Space (M-Space)
+
+move to the previous line: Ctrl+P (^P)
+
+move to the next line: Ctrl+N (^N)
+
+move to the next page: Ctrl+V (^V)
+
+move to the previous page: Ctrl+Y (^Y)
+
+move to the beginning of the line: Ctrl+A (^A)
+
+move to the end of the line: Ctrl+E (^E)
+
+
+
